@@ -1,0 +1,2 @@
+# Weather Dahsboard
+This one took me a while. Figuring out case switch and getting the carousel to work was tough. I still have some info outside of the pictures because some of the images are the wrong size, but I wanted to just hand it in how it is because it's already super late and I didn't want to mess something up. 
